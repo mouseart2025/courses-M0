@@ -23,7 +23,8 @@ _柴火创客学院 Chaihuo Maker Academy ｜ 用 AI 造物 · Build with AI ｜
 交付物/               中文版交付物（教师课件 / 学员文档 / 演示文稿 / 学期清单 / 使用指南）
 en/                   English edition（英文版交付物）
 素材/                 共享图片素材（封面插画、板子图、案例照片）
-LICENSE.md            CC BY 4.0
+LICENSE.md            CC BY 4.0 官方法律文本
+LICENSE-README.md     CC BY 4.0 可读说明（署名指引 / 常见问题）
 README.md             本文件（中文）
 README_EN.md          English version
 ```
@@ -42,7 +43,7 @@ README_EN.md          English version
 
 ## 许可
 
-本课程交付物以 **知识共享 署名 4.0 国际（CC BY 4.0）** 发布——署名即可商用、改编、作为 AI 上下文使用。详见 `LICENSE.md`。
+本课程交付物以 **知识共享 署名 4.0 国际（CC BY 4.0）** 发布——署名即可商用、改编、作为 AI 上下文使用。`LICENSE.md` 为官方法律文本；署名指引、背景与常见问题见 `LICENSE-README.md`。
 
 ## 反馈与贡献
 

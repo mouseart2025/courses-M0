@@ -23,7 +23,8 @@ Official course page: [opc.chaihuo.org/courses/m0](https://opc.chaihuo.org/cours
 交付物/                Chinese edition (Teacher Guides / Student Workbooks / Slides / Checklist)
 en/                    English edition (Teacher Guides / Student Workbooks / Slides / Workflow / Glossary)
 素材/                  Shared assets (cover art, board photos, case photos)
-LICENSE.md             CC BY 4.0
+LICENSE.md             CC BY 4.0 (official legal code)
+LICENSE-README.md      CC BY 4.0 readable guide (attribution how-to, FAQ)
 README.md              Chinese version
 README_EN.md           This file (English)
 ```
@@ -42,7 +43,7 @@ README_EN.md           This file (English)
 
 ## License
 
-Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)** — attribution required; commercial use, remixing, and using the materials as AI context are all allowed. See `LICENSE.md`.
+Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)** — attribution required; commercial use, remixing, and using the materials as AI context are all allowed. `LICENSE.md` is the official legal code; `LICENSE-README.md` is a readable guide with attribution examples and background.
 
 ## Feedback & contributions
 
