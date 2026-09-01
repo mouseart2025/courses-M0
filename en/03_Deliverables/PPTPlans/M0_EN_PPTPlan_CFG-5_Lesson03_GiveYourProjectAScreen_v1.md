@@ -212,7 +212,7 @@ Use both boards — that one senses the world; this one lets people interact wit
 
 **Instructor notes** (verbatim): *"Now compare with the old board: the old one's strength is sensing the world — sensors soldered on, plug and play. This one adds a color screen, a joystick and wireless — its strength is letting people interact with your project. One sentence: why did we change gear? From today, your project has a face and hands."* Then the two workbook lines. **Output anchor**: the two lines written in everyone's workbook.
 
-**Assets**: IMG Grove Beginner Kit board photo (existing local asset `素材/L1_板子全貌图_Grove Beginner Kit.png`) · IMG Wio Terminal photo (reuse IMG-01-01 or a second angle).
+**Assets**: IMG Grove Beginner Kit board photo (existing local asset `assets/L1_板子全貌图_Grove Beginner Kit.png`) · IMG Wio Terminal photo (reuse IMG-01-01 or a second angle).
 
 ---
 
@@ -590,7 +590,7 @@ Bring your topic.
 | 03 | Flash-mode switch close-up `L3_烧录开关特写.png` (yellow circle marking the switch) | 320×240 | To photograph |
 | 04 | Warm-up success screen `L3_热身_HELLO.png` (Rehearsal-1 backup) | 360×270 | To capture at rehearsal |
 | 05 | **Annotated Wio tour diagram `L3_Wio导览标注图.png` (to be made — build instructions in slide 05)** | 720×460 | **To make** |
-| 06 | Grove Beginner Kit board photo (existing local asset `素材/L1_板子全貌图_Grove Beginner Kit.png`) | 320×240 | ✅ Local asset |
+| 06 | Grove Beginner Kit board photo (existing local asset `assets/L1_板子全貌图_Grove Beginner Kit.png`) | 320×240 | ✅ Local asset |
 | 08–12 | Micro-experiment success screens ×5 (DO on screen / ball pushed / candle out / eyes closed ZZZ / ball rolled) `L3_微实验1_按键.png` – `L3_微实验5_加速度计.png` (Rehearsal-2 backups) | 400×300 ×5 | To capture at rehearsal |
 | 13 | Comparison screenshots ×2 — vague result `L3_对比实验_模糊版.png` / precise result `L3_对比实验_说清版.png` (Rehearsal-3 backups; **live double-send is the lesson, screenshots are fallback**) | 360×270 ×2 | To capture at rehearsal |
 | 14 | Counter step results ×2 `L3_计数器_步骤一.png` / `L3_计数器_步骤二.png` (Rehearsal-4 backups) | 300×220 ×2 | To capture at rehearsal |

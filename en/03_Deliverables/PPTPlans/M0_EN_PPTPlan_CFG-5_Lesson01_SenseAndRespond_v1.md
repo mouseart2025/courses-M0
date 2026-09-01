@@ -105,7 +105,7 @@ SOS = ··· ––– ··· (three short, three long, three short)
 👁️ Watch closely: he's typing plain English, not code — and all three lines go in the SAME conversation.
 ```
 
-**Instructor notes** — the projector is background; the star is the instructor typing live in front of the class, slowly, so everyone sees plain language going in. Three rounds build in **the same conversation** (this is the silent first demo of "add one more line"). Say nothing until the board sends SOS; the laughter and the "ohhhh" are the point. **Nothing Chinese goes on screen — the demo was chosen exactly for this.** Demo fails → cut to the backup recording (`素材/L1_开场演示_备份录屏.mp4`) within 30 seconds: *"The board in this video is identical to the ones on your desks — you'll do the real thing yourselves in a minute."* **Not an incident.**
+**Instructor notes** — the projector is background; the star is the instructor typing live in front of the class, slowly, so everyone sees plain language going in. Three rounds build in **the same conversation** (this is the silent first demo of "add one more line"). Say nothing until the board sends SOS; the laughter and the "ohhhh" are the point. **Nothing Chinese goes on screen — the demo was chosen exactly for this.** Demo fails → cut to the backup recording (`assets/L1_开场演示_备份录屏.mp4`) within 30 seconds: *"The board in this video is identical to the ones on your desks — you'll do the real thing yourselves in a minute."* **Not an incident.**
 
 **Assets**: IMG terminal screenshot (capture during rehearsal, 800×450) · IMG Morse SOS poster (···–––···, flat style, 400×300) · VID backup recording.
 
@@ -264,7 +264,7 @@ Put Your Name on the Screen
 ```text
 Meet Your Board
 
-[board photo: 素材/L1_板子全貌图_Grove Beginner Kit.png, horizontal]
+[board photo: assets/L1_板子全貌图_Grove Beginner Kit.png, horizontal]
 
 · The main board in the middle — its brain (AI has the ideas; you make the decisions)
 · Screen, light, little speaker — its face and voice
@@ -609,8 +609,8 @@ what's one small thing in your daily life that annoys you?
 | --- | --- | --- | --- |
 | 02 | Terminal-style 3-round conversation screenshot (capture during rehearsal) | 800×450 | To capture |
 | 02 | Morse SOS poster (···–––···, flat) | 400×300 | To make |
-| 02 | Backup recording `素材/L1_开场演示_备份录屏.mp4` (instructor records own rehearsal) | video | To record |
-| 10 | Grove Beginner Kit board photo `素材/L1_板子全貌图_Grove Beginner Kit.png` (horizontal) | 1157×869 | ✅ Local asset |
+| 02 | Backup recording `assets/L1_开场演示_备份录屏.mp4` (instructor records own rehearsal) | video | To record |
+| 10 | Grove Beginner Kit board photo `assets/L1_板子全貌图_Grove Beginner Kit.png` (horizontal) | 1157×869 | ✅ Local asset |
 | 11–15 | Five annotated kit pages (overview / sensing / speaking / interacting / brain) — reuse existing finished annotations; **labels in English** | ~800×450 | ✅ Existing art, re-label |
 | 16 | Codecraft connect-flow screenshots ×5 (pick board / type request / connect & flash / pick serial / auto-flash) — **UI strings on screen must be English** | ~400×300 each | ✅ Existing art, re-capture if EN UI |
 | 19 | Codecraft input-box screenshot (Generate/Flash buttons labeled) | 800×400 | To capture |

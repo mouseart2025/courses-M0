@@ -16,7 +16,7 @@ TOTAL = 13
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..",
                    "M0_EN_Deck_CFG-5_Lesson10_MyProjectMyStory_v1.pptx")
 
-COVER_ART = "/Users/leonfeng/Baiduyun/M0/M0-V2/素材/L10_封面插画_路演.png"
+COVER_ART = "/Users/leonfeng/Baiduyun/M0/M0-V2/assets/L10_封面插画_路演.png"
 
 
 def page(prs, n):

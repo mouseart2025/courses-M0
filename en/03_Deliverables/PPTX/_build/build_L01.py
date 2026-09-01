@@ -16,7 +16,7 @@ TOTAL = 28
 DECK_LABEL = "Sense and Respond"
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..",
                    "M0_EN_Deck_CFG-5_Lesson01_SenseAndRespond_v1.pptx")
-KIT_PHOTO = "/Users/leonfeng/Baiduyun/M0/M0-V2/素材/L1_板子全貌图_Grove Beginner Kit.png"
+KIT_PHOTO = "/Users/leonfeng/Baiduyun/M0/M0-V2/assets/L1_板子全貌图_Grove Beginner Kit.png"
 
 
 def page(prs, n):

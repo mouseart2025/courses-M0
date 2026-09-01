@@ -85,7 +85,7 @@ and a first look for your project.
 
 **Instructor notes**: cover page only; students see it as they sit down. No script. When the session starts, go straight to slide 02 — the opener's 30-second recap is spoken, not projected. Right side: the toolbox cover illustration (the CN deck's IMG-01-01 — a toolbox opened, gears / bulbs / circuit bits flying out; Chaihuo black-line yellow-fill, same spec as Lesson 8's baton cover; reused only if it carries no Chinese glyphs, else redrawn wordless); yellow rule under the subtitle. Footer: `Chaihuo Maker Academy · M0 · Call In Reinforcements | 01 / 20`.
 
-**Assets**: cover illustration — reuse `素材/L9_封面插画_请外援.png` if wordless, else redraw.
+**Assets**: cover illustration — reuse `assets/L9_封面插画_请外援.png` if wordless, else redraw.
 
 ---
 
@@ -392,7 +392,7 @@ Chaihuo black-line yellow-fill style]
 tape · rubber bands · zip ties
 ```
 
-**Instructor notes** (verbatim): *"The materials wall — everything here is clean junk brought from home or picked from the public pool. Pick, don't buy. Find material → build the structure → add the look → ready to demo."* This is the unnumbered insertion page (CN 12b); it exists so the room sees the *wall* as a real place, not an idea. The illustration is reused from the CN deck (`素材/L9_插图_就地取材材料墙.png`) only if wordless; otherwise redrawn as a wordless Chaihuo-style version. The bottom small line doubles as the wall's caption — the materials are named, no shopping required. The "trash is the hardware store" echo from slide 11 lands visually here.
+**Instructor notes** (verbatim): *"The materials wall — everything here is clean junk brought from home or picked from the public pool. Pick, don't buy. Find material → build the structure → add the look → ready to demo."* This is the unnumbered insertion page (CN 12b); it exists so the room sees the *wall* as a real place, not an idea. The illustration is reused from the CN deck (`assets/L9_插图_就地取材材料墙.png`) only if wordless; otherwise redrawn as a wordless Chaihuo-style version. The bottom small line doubles as the wall's caption — the materials are named, no shopping required. The "trash is the hardware store" echo from slide 11 lands visually here.
 
 **Assets**: the materials-wall illustration (reuse CN asset if wordless, else redraw); the four-step flow bar (yellow dots).
 
@@ -617,8 +617,8 @@ Bring your baton sheet, your project, and the side of it you most want to show.
 
 | # | Asset | Origin | EN-deck action |
 | --- | --- | --- | --- |
-| 1 | Cover illustration — toolbox open, gears / bulbs / circuit bits flying out (380×380 px, Chaihuo black-line yellow-fill) | CN deck IMG-01-01, delivered: `素材/L9_封面插画_请外援.png` | Reuse only if wordless; else redraw wordless Chaihuo-style (same spec as L08's baton cover) |
-| 2 | Materials-wall illustration — shelves of boxes / bottle caps / toy shells / tape (Chaihuo black-line yellow-fill) | CN deck page-12b asset, delivered: `素材/L9_插图_就地取材材料墙.png` | Reuse only if wordless; else redraw wordless |
+| 1 | Cover illustration — toolbox open, gears / bulbs / circuit bits flying out (380×380 px, Chaihuo black-line yellow-fill) | CN deck IMG-01-01, delivered: `assets/L9_封面插画_请外援.png` | Reuse only if wordless; else redraw wordless Chaihuo-style (same spec as L08's baton cover) |
+| 2 | Materials-wall illustration — shelves of boxes / bottle caps / toy shells / tape (Chaihuo black-line yellow-fill) | CN deck page-12b asset, delivered: `assets/L9_插图_就地取材材料墙.png` | Reuse only if wordless; else redraw wordless |
 | 3 | Slide 03 left card: grey "scroll" code-block shading (three rows of grey lines, no glyphs) | Vector, drawn per plan | Draw fresh (no platform screenshot — the rule is naturally satisfied) |
 | 4 | Slide 06: two room cards + thick black dividing wall | Vector, drawn per plan | Draw fresh |
 | 5 | Slide 12: four 2×2 move cards with line icons (shell box / tape+band / marker+arrow / box with tucked wires) | Vector, drawn per plan | Draw fresh |
@@ -663,7 +663,7 @@ Bring your baton sheet, your project, and the side of it you most want to show.
 
 | 版本 | 日期 | 说明 |
 | --- | --- | --- |
-| v1 | 2026-08-26 | 英文策划初版（20 页）：以 EN Teacher's Guide L09 v1（2026-08-25，基于中文讲师版 v2 三幕 98/45/37）为结构仲裁的品牌重制，中文策划 v2.2（19 页含 12b）仅作素材溯源与视觉骨架。**结构增量 1 处**：新增 slide 17「Review Record · Leg 2」模板页（EN 6.8）——EN 讲师版零打印口径明文"the review record: all projected"，中文策划无对应投屏页，按结构仲裁法则以 EN 为唯一基准；页序从 17 起整体 +1（CN 17→EN 18，CN 18→EN 19）。红色 ×4 按 v2.2 口径映射：slide 07（the one-library rule）／slide 14（15 minutes before review, hands off）／slide 15（review starts on time）／slide 18（accept everything — teacher talk）。句式 verbatim 锁定 EN 6.1–6.8（6.6 以小字随 slide 15；顶回条"No praise. Faults only."随 slide 16）。双常亮页：slide 04（the three checks，第一幕灵魂页）＋slide 14（the build rules，第二幕灵魂页 40 分钟）。素材复用 `素材/L9_封面插画_请外援.png` 与 `素材/L9_插图_就地取材材料墙.png`（均需无字校验）。 |
+| v1 | 2026-08-26 | 英文策划初版（20 页）：以 EN Teacher's Guide L09 v1（2026-08-25，基于中文讲师版 v2 三幕 98/45/37）为结构仲裁的品牌重制，中文策划 v2.2（19 页含 12b）仅作素材溯源与视觉骨架。**结构增量 1 处**：新增 slide 17「Review Record · Leg 2」模板页（EN 6.8）——EN 讲师版零打印口径明文"the review record: all projected"，中文策划无对应投屏页，按结构仲裁法则以 EN 为唯一基准；页序从 17 起整体 +1（CN 17→EN 18，CN 18→EN 19）。红色 ×4 按 v2.2 口径映射：slide 07（the one-library rule）／slide 14（15 minutes before review, hands off）／slide 15（review starts on time）／slide 18（accept everything — teacher talk）。句式 verbatim 锁定 EN 6.1–6.8（6.6 以小字随 slide 15；顶回条"No praise. Faults only."随 slide 16）。双常亮页：slide 04（the three checks，第一幕灵魂页）＋slide 14（the build rules，第二幕灵魂页 40 分钟）。素材复用 `assets/L9_封面插画_请外援.png` 与 `assets/L9_插图_就地取材材料墙.png`（均需无字校验）。 |
 
 ---
 

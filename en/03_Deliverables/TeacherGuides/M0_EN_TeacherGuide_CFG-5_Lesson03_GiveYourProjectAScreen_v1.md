@@ -53,7 +53,7 @@ You run four segments: **Meet the new gear** (50 min — collect last session's 
 
 ---
 
-## 一、Before Class
+## 1. Before Class
 
 ### 1.1 One Week Before (do it once)
 
@@ -119,7 +119,7 @@ Budget note: everything you bring is one stationery run. Cheap.
 
 ---
 
-## 二、Session Map
+## 2. Session Map
 
 Sample timetable 14:00–17:00 — **shift the whole thing to your actual start time** (a morning class becomes 9:00–12:00; segment lengths don't change). **No scheduled break** — students use the restroom whenever they need, no reporting; device checks and work-collection registration happen quietly at the start of each segment.
 
@@ -157,7 +157,7 @@ The buffer is flex time: **before class you decide which exit this session plays
 
 ---
 
-## 三、Segment-by-Segment Scripts
+## 3. Segment-by-Segment Scripts
 
 ### Segment 1 ｜ Meet the new gear (14:00–14:50)
 
@@ -297,7 +297,7 @@ Students send their lines wrapped in the standard frame (printed in the workbook
 
 ---
 
-## 四、Live Demo Backup Plan at a Glance
+## 4. Live Demo Backup Plan at a Glance
 
 | Demo | Used at | Rehearse | Backup asset | If it goes wrong live |
 | --- | --- | --- | --- | --- |
@@ -309,7 +309,7 @@ Students send their lines wrapped in the standard frame (printed in the workbook
 
 ---
 
-## 五、Pitfall Speed Sheet
+## 5. Pitfall Speed Sheet
 
 Remember the three moves first: **swap, cut to backup, ask AI.** Today's fourth: knowing is hands-on — stuck on a line? Send a different line and keep going, never lecture.
 
@@ -340,7 +340,7 @@ Remember the three moves first: **swap, cut to backup, ask AI.** Today's fourth:
 
 ---
 
-## 六、Prompt Phrase Library (instructor reference)
+## 6. Prompt Phrase Library (instructor reference)
 
 Today's phrases: the 5 micro-experiment lines + the "how to describe a screen" phrase. Full text below — read before class, project when you need them. **These are not printed or handed out** — they're in the Student Workbook; project and read together when they debut, point students to the book when they forget. If the workbook wording differs slightly from here, either works; the meaning is the same.
 
@@ -366,7 +366,7 @@ Students wrap every line in the standard frame: *"I'm using the Wio Terminal. Pl
 
 ---
 
-## 七、Localization Slots
+## 7. Localization Slots
 
 | Slot | Original | Swap in |
 | --- | --- | --- |
@@ -377,7 +377,7 @@ Students wrap every line in the standard frame: *"I'm using the Wio Terminal. Pl
 
 ---
 
-## 八、Teacher Reflection Page (10 minutes after class — every line becomes the next version's saved pitfall)
+## 8. Teacher Reflection Page (10 minutes after class — every line becomes the next version's saved pitfall)
 
 1. Which segment went best? Which one do you most want a do-over on?
 2. Any 🗣️ line that felt stiff to say aloud — not like a human? Cross it out, write what you actually said.

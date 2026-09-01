@@ -85,7 +85,7 @@ and AI becomes a reviewer for the first time.
 
 **Instructor notes**: cover page only; students see it as they sit down. No script. When the session starts, go straight to slide 02 — the opener's 30-second look-back is spoken, not projected. Right side: the baton illustration (the CN deck's IMG-01-01 — reused only if it carries no Chinese glyphs, else redrawn wordless); yellow rule under the subtitle. Footer: `Chaihuo Maker Academy · M0 · Run the First Lap | 08 / 42`.
 
-**Assets**: cover illustration (baton + hardware bits, Chaihuo black-line yellow-fill style) — reuse the CN asset `素材/L8_封面插画_第一棒MVP.png` if wordless, else redraw.
+**Assets**: cover illustration (baton + hardware bits, Chaihuo black-line yellow-fill style) — reuse the CN asset `assets/L8_封面插画_第一棒MVP.png` if wordless, else redraw.
 
 ---
 
@@ -540,7 +540,7 @@ the Brief Wall stickies stay.
 
 | Slide | Asset | Size | Status |
 | --- | --- | --- | --- |
-| 01 | Cover illustration — baton + hardware bits, Chaihuo black-line yellow-fill style | 380×380 | Reuse the CN asset `素材/L8_封面插画_第一棒MVP.png` IF wordless (check for Chinese glyphs — "不赌中文渲染"); else redraw as a wordless version |
+| 01 | Cover illustration — baton + hardware bits, Chaihuo black-line yellow-fill style | 380×380 | Reuse the CN asset `assets/L8_封面插画_第一棒MVP.png` IF wordless (check for Chinese glyphs — "不赌中文渲染"); else redraw as a wordless version |
 | 02 | Three-leg route (yellow arrows × 2) | — | Vector-drawn, 2 px black stroke — degrade to plain text lines |
 | 03 | Closed-loop diagram (sense → react, two cells + yellow arrow) | 480×160 | Vector-drawn — degrade to text-only cards |
 | 04 | One-key keyboard line icon (optional) | 120×120 | Vector-drawn, 2 px black stroke — optional, degrade to pure text |

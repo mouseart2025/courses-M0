@@ -324,7 +324,7 @@ def main():
                  "Which one is buildable, who'd really use it — it doesn't know. "
                  "You know. Your turn: fill your three annoyances into the "
                  "phrase, send it — then copy your 3 favorite ideas back into "
-                 "your workbook. Red-line patrol (the TA's main job): a student "
+                 "your workbook. What to look for (the TA's main job): a student "
                  "sends the blank template — send it back to be refilled: 'The "
                  "blanks are for you to fill — AI doesn't know how old your "
                  "sister is.' Everyone must get 10+ ideas before this counts as "
