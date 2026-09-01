@@ -19,8 +19,8 @@ TOTAL = 20
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..",
                    "M0_EN_Deck_CFG-5_Lesson09_CallInReinforcements_v1.pptx")
 
-COVER_ART = "/Users/leonfeng/Baiduyun/M0/M0-V2/素材/L9_封面插画_请外援.png"
-MATERIALS_WALL = "/Users/leonfeng/Baiduyun/M0/M0-V2/素材/L9_插图_就地取材材料墙.png"
+COVER_ART = "/Users/leonfeng/Baiduyun/M0/M0-V2/assets/L9_封面插画_请外援.png"
+MATERIALS_WALL = "/Users/leonfeng/Baiduyun/M0/M0-V2/assets/L9_插图_就地取材材料墙.png"
 
 
 # ------------------------------------------------------------------ page setup

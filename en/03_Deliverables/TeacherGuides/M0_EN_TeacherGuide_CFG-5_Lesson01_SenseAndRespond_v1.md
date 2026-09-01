@@ -50,7 +50,7 @@ You run four segments: **Kickoff** (30 min — what this course is) → **Name L
 
 ---
 
-## 一、Before Class
+## 1. Before Class
 
 ### 1.1 One Week Before (do it once)
 
@@ -58,9 +58,9 @@ You run four segments: **Kickoff** (30 min — what this course is) → **Name L
 - [ ] **Confirm student browsers**: recent Chrome or Edge (Safari / Firefox don't support direct browser flashing). Ask IT to upgrade anything too old.
 - [ ] **Confirm student Codecraft accounts**: accounts ship with the hardware kit, sized to your enrollment. One week out, confirm headcount, then check the account sheet has enough (round up if undecided — better too many than too few). If accounts haven't arrived, ask in the teaching group — that's a supply-side matter, not yours. Once you have the sheet, copy the passwords onto a paper seat map and carry it on you.
 - [ ] **Count hardware**: Grove Beginner Kits for every student + 2 spare boards + 1 instructor demo kit + a box of spare USB cables.
-- [ ] **Backup demo video ready**: check `素材/` for `L1_开场演示_备份录屏.mp4`. If it's not there, record your own successful rehearsal (see 1.3, Rehearsal 1) and drop it in.
+- [ ] **Backup demo video ready**: check `assets/` for `L1_开场演示_备份录屏.mp4`. If it's not there, record your own successful rehearsal (see 1.3, Rehearsal 1) and drop it in.
 - [ ] **Materials (zero-print — everything on screen)**: sensor table-card content saved on the instructor machine for projection (see 1.4); account passwords transcribed onto a paper seat map, carried on you, handed out one-by-one at start; one name sticker per student (handwritten is fine, sticky notes work too).
-- [ ] **Backup video on your machine**: copied from `素材/`, double-click plays, volume tested.
+- [ ] **Backup video on your machine**: copied from `assets/`, double-click plays, volume tested.
 
 ### 1.2 Same Day (arrive 1 hour early recommended)
 
@@ -79,7 +79,7 @@ You have **4 live demos** today. Run each one fully on your own machine before c
 
 **Rehearsal 1 ｜ Kickoff demo "3-sentence sound-and-light SOS" (used at start)**
 The opening demo must be rock solid — no gambling on Chinese font rendering. Default plan: open Codecraft, run three rounds in front of no one — Round 1: type *"write a program that makes the Beginner Kit LED blink every 500 ms"* → generate → compile → flash → LED blinks. Round 2: in the **same conversation**, add *"while the LED is on, the buzzer beeps; when the LED is off, stop"* → reflash → sound and light sync. Round 3: add *"use Morse code to send a repeating sound-and-light SOS"* → flash → the board sends SOS continuously. Whole thing under 5 minutes. This demo never puts Chinese text on screen, so there's no font problem — that's exactly why it's the opener.
-Backup: `素材/L1_开场演示_备份录屏.mp4`. **If that video doesn't exist yet, record this successful rehearsal on your phone right now and save it into `素材/` — this recording IS the backup.**
+Backup: `assets/L1_开场演示_备份录屏.mp4`. **If that video doesn't exist yet, record this successful rehearsal on your phone right now and save it into `assets/` — this recording IS the backup.**
 Live fail? Play the backup and keep going — **not an incident.**
 
 **Rehearsal 2 ｜ Name-lighting demo (used ~45 min in)**
@@ -123,11 +123,11 @@ Budget note: everything you bring is one stationery run. Cheap.
 > 🎮 **Interact (how you operate it)**: button, knob
 > 🧠 **Brain**: the main board in the middle
 
-The full board photo ships with the course: `素材/L1_板子全貌图_Grove Beginner Kit.png` — project it. **No photo? Fine.** Hold up a real board and point at it; that's even better.
+The full board photo ships with the course: `assets/L1_板子全貌图_Grove Beginner Kit.png` — project it. **No photo? Fine.** Hold up a real board and point at it; that's even better.
 
 ---
 
-## 二、Session Map
+## 2. Session Map
 
 Sample timetable 14:00–17:00 — **shift the whole thing to your actual start time** (a morning class becomes 9:00–12:00; segment lengths don't change).
 
@@ -157,7 +157,7 @@ Sample timetable 14:00–17:00 — **shift the whole thing to your actual start 
 
 ---
 
-## 三、Segment-by-Segment Scripts
+## 3. Segment-by-Segment Scripts
 
 ### Segment 1 ｜ Kickoff: what this course is (14:00–14:30)
 
@@ -379,18 +379,18 @@ Sample timetable 14:00–17:00 — **shift the whole thing to your actual start 
 
 ---
 
-## 四、Live Demo Backup Plan at a Glance
+## 4. Live Demo Backup Plan at a Glance
 
 | Demo | Used at | Rehearse | Backup asset | If it goes wrong live |
 | --- | --- | --- | --- | --- |
-| Sound-and-light SOS (3 sentences) | Kickoff (start) | Rehearsal 1 | `素材/` backup recording (record your own successful run on your phone and save it if none exists — mandatory before class) | Cut to the recording within 30 seconds, keep going — **not an incident** |
+| Sound-and-light SOS (3 sentences) | Kickoff (start) | Rehearsal 1 | `assets/` backup recording (record your own successful run on your phone and save it if none exists — mandatory before class) | Cut to the recording within 30 seconds, keep going — **not an incident** |
 | Name lighting | 45 min in, follow-along | Rehearsal 2 | **No video version (by design: lighting must be a real board)**; spare machines + spare boards standing by | Swap to a spare machine and keep leading; total network failure → Section 5 |
 | Dark-detecting light | 1 hr in, follow-along | Rehearsal 3 | Spare machine + keep a working project on your instructor machine for instant re-flash | Swap/refash; if still stuck, demo collectively with a board from a student who succeeded |
 | Error handling | First error in the trio | Rehearsal 4 | The "make the board fly" error-conversation screenshot (prepared before class) | Project the backup screenshot; teach the point anyway |
 
 ---
 
-## 五、Pitfall Speed Sheet
+## 5. Pitfall Speed Sheet
 
 Remember the three moves first: **swap, cut to backup, ask AI.** Any device issue must reach a resolution within 10 minutes — and the resolution is always swap, never fix.
 
@@ -429,7 +429,7 @@ Remember the three moves first: **swap, cut to backup, ask AI.** Any device issu
 
 ---
 
-## 六、Prompt Phrase Library (instructor reference)
+## 6. Prompt Phrase Library (instructor reference)
 
 All eight phrase sets from today, full text — read before class, project when you need them. **These are not printed or handed out** — "one thing at a time" and "add one more line" get projected and read together at 14:30; the rest you project as needed. The same phrases live in the Student Workbook on the matching pages — point students to the book when they forget. If the workbook wording differs slightly from here, either works; the meaning is the same.
 
@@ -498,7 +498,7 @@ One line: translate your project intro into words a grandparent or classmate cou
 
 ---
 
-## 七、Localization Slots
+## 7. Localization Slots
 
 | Slot | Original | Swap in |
 | --- | --- | --- |
@@ -509,7 +509,7 @@ One line: translate your project intro into words a grandparent or classmate cou
 
 ---
 
-## 八、Teacher Reflection Page (10 minutes after class — every line becomes the next version's saved pitfall)
+## 8. Teacher Reflection Page (10 minutes after class — every line becomes the next version's saved pitfall)
 
 1. Which segment went best? Which one do you most want a do-over on?
 2. Any 🗣️ line that felt stiff to say aloud — not like a human? Cross it out, write what you actually said.

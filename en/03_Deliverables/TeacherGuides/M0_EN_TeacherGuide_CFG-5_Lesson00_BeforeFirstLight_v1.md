@@ -27,7 +27,7 @@ _By the end of this session, students will be able to…_
 
 ---
 
-## 一、Before Class
+## 1. Before Class
 
 ### 1.1 One Week Before
 
@@ -61,7 +61,7 @@ _By the end of this session, students will be able to…_
 
 ---
 
-## 二、Session Map
+## 2. Session Map
 
 | Time | Segment | Slides |
 | --- | --- | --- |
@@ -88,7 +88,7 @@ _By the end of this session, students will be able to…_
 
 ---
 
-## 三、Segment by Segment
+## 3. Segment by Segment
 
 ### 3.1 Welcome + the course in one sentence (3 min) 【Slide 1】 [I Do]
 
@@ -210,7 +210,7 @@ Land it:
 
 ---
 
-## 四、Backup Plans at a Glance
+## 4. Backup Plans at a Glance
 
 | Risk | Plan B |
 | --- | --- |
@@ -232,7 +232,7 @@ For open-house and info-session audiences, add one note after 3.4 and one after 
 
 ---
 
-## 五、Pitfall Speed Sheet
+## 5. Pitfall Speed Sheet
 
 | In-class situation | How to handle it |
 | --- | --- |
@@ -245,7 +245,7 @@ For open-house and info-session audiences, add one note after 3.4 and one after 
 
 ---
 
-## 六、Scripts & On-Screen Text (verbatim)
+## 6. Scripts & On-Screen Text (verbatim)
 
 ### 6.1 Your four-line self-intro (slide 2 fill-in template)
 
@@ -288,7 +288,7 @@ By the end of the lesson, your name will be glowing on the screen.
 
 ---
 
-## 七、Localization Slots
+## 7. Localization Slots
 
 | Slot | Default | Swap in |
 | --- | --- | --- |
@@ -299,7 +299,7 @@ By the end of the lesson, your name will be glowing on the screen.
 
 ---
 
-## 八、Teacher Reflection Page (fill in 10 minutes after class)
+## 8. Teacher Reflection Page (fill in 10 minutes after class)
 
 **A. Timing record**
 

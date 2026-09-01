@@ -4,7 +4,7 @@ _The Final Leg & the Showcase · Graduation Day ｜ Chaihuo Maker Academy · M0 
 
 > **Source:** 中文版 v3（M0_教师课件_CFG-5_第10课_我的作品我来讲_v2.md，文件名写 v2，文末修订说明含 v3：PPT 12→13 页——页 5 发布检查后新增页 6「专业工程师的 Demo 检查表（Brandy 亲测）」；3.4 同步加案例念稿）
 > **Localized edition** — same blocks, same minutes, same teaching intent; classroom language rewritten for an English-speaking teacher to pick up and teach from.
-> **Localization notes:** ① 全课零打印——README 模板、pitch 四格、路演自检表、"只修不加"纪律、家长口径全部投屏，学员誊写进学员文档；② 三个硬闸不谈判：结课仪式 15 分钟铁律、第一幕结束必停冲刺、下课前 15 分钟必进仪式；③ 影像合规贯穿全程（只拍手不拍脸 + 家长授权名单）。
+> **Localization notes:** 1. Zero printing for whole class — README template, four-box pitch, roadshow self-check, 'fix-only' discipline, and parent framing are all projected, students write in workbooks; 2. Three non-negotiable hard gates: 15-minute closing ceremony iron law, mandatory sprint stop at end of Act 1, mandatory ceremony entry 15 minutes before class ends; 3. Recording compliance throughout (hands-only, no faces + guardian consent list).
 
 ---
 
@@ -98,7 +98,7 @@ Each act boundary has one explicit **gear-change move**: Act 1→2 is "hands off
 
 - [ ] External-network test (README / pitch / rehearsal need it; the offline plan is 4.3).
 - [ ] Main kits + per-project components + the 40-in-1 pool (sprint check-out as before) + the looks-up materials pool (carried over from Lesson 9).
-- [ ] Projector; **hourglass ×2 (2-minute, roadshow double-insurance)**; stopwatch.
+- [ ] Projector; **hourglass ×2 (2-minute, roadshow backup plan)**; stopwatch.
 - [ ] Brief Wall + baton handoff sheets in place; the home screen holds "**fix-only**" in large type, on standby.
 - [ ] Roadshow layout: front demo area (projector spot) + desk-rotation path; a parent seating zone at the back (if invited).
 - [ ] Photo spots (back-of-head / hands close-ups); **zero printing today** — README template, pitch four boxes, roadshow self-check: all projected + student documents.
@@ -355,7 +355,7 @@ Voting (bottle caps / sticky notes / show of hands — no props bought) → TA C
 
 ---
 
-## Section 4 · The double-insurance matrix
+## Section 4 · The backup plan matrix
 
 | Block | Time short (compress) | Goes wrong live (substitute) | Can't happen at all (fallback) |
 | --- | --- | --- | --- |
@@ -572,4 +572,4 @@ Photograph the page and send it to the teaching group, or tuck it back in the co
 
 _Version: EN v1 ｜ 2026-08-25 ｜ Source: CN 讲师版 v3（2026-08-06；文件名标注 v2，修订说明含 v2 滚动修订：去钟面时刻、去卡片化、零打印、删统一休息、三幕结构、站会弹性化、句式集中第六节；v3：PPT 12→13 页，新增页 6「专业工程师的 Demo 检查表（Brandy 亲测）」+ 3.4 案例念稿） ｜ 依据设计版：CFG-5 配置说明书 v1.0 "我的作品，我来讲"行；积木卡《路演 + 商业化探索 lite》（分场景口径）、《自由创作/马拉松 + AI 评审官》（第三棒冲刺变体：只修不加 + 发布检查）、《AI 辅助记录》（结课周汇总）；总纲第六章风险 8（中学生口径）_
 
-_Localization notes: 「我的作品，我来讲」→ My Project, My Story（副题 The Final Leg & the Showcase）；「最后一棒」→ the final leg；「只修不加」→ fix-only（第 9 课预告登记）；「发布检查」→ the release check（评审人设升级："能不能见人"）；「工程师的检查表」→ the engineer's checklist（Brandy 四条通用检查 + 降级方案，与第 8 课附录页 34 同源）；「连续 5 遍全过」→ five clean demos in a row（"稳"的定义）；「诚实的失败」→ the honest failure（末棒崩盘口径）；「README」→ README（十篇日志合体；AI 整理、学员校对）；「抓包」→ the catch（"有没有它编的？AI 会一本正经地编"）；「算一笔账」→ the cost & value math（lite 口径只算两笔：成本/价值；红线"贵的理由必须是'它解决了什么问题'，不是'我想要'"）；「pitch 一页纸」→ the one-page pitch（四格 four boxes）；「三处硬引用」→ the three hard references（真人/账/需求单原话）；「AI 投资人陪练」→ the AI investor rehearsal（"So what? What's it to me?"）；「真人路演」→ the live roadshow（先演示再讲 demo first；2 分钟沙漏 the 2-minute hourglass；桌内全员轮讲 every-desk rotation；每桌推 1 人全场 one per desk to the stage）；「互投」→ the vote（"最想让它真实存在" would-most-want-to-see-real）；「遗珠」→ the overlooked（0 票作品必给亮点）；「结课仪式」→ the closing ceremony（铁律 15 分钟不可砍）；「十次课旅程」→ the ten-lesson journey（all lit）；「首尾呼应」→ the bookend（"You're not watching the magic anymore — you're making it."）；「影像合规」→ recording rules（只拍手不拍脸 hands-only；家长授权清单 guardian consent list）；「家长观摩」→ the parent audience；「双硬闸」→ the two hard gates；「路演三规则」→ the three roadshow rules；「路演自检表」→ the roadshow self-check（8 项）；「同桌双人上」→ the pair-up；「demo 备份意识」→ demo-backup awareness；「杀青」→ "That's a wrap!"；partner/TTT 场次附录完整保留（中学生版正文红线不变）。「不赌中文渲染」规则天然满足——一切屏幕内容为英文/数字/图形。_
+_Localization notes: '我的作品，我来讲' -> My Project, My Story (sub-title: The Final Leg & the Showcase); '最后一棒' -> the final leg; '只修不加' -> fix-only; '发布检查' -> the release check (reviewer persona upgrade: 'is it presentable?'); '工程师的检查表' -> the engineer's checklist (Brandy's four general checks + downgrade plan, homologous with Lesson 8 appendix page 34); '连续 5 遍全过' -> five clean demos in a row; '诚实的失败' -> the honest failure (final leg crash phrasing); 'README' -> README (10 logs combined; AI organizes, student proofreads); '抓包' -> the catch ('did it make things up?'); '算一笔账' -> the cost & value math (lite phrasing only calculates cost/value; red line: 'the reason for being expensive must be what problem it solves, not what I want'); 'pitch 一页纸' -> the one-page pitch (four boxes); '三处硬引用' -> the three hard references (real person/math/requirements sheet exact words); 'AI 投资人陪练' -> the AI investor rehearsal ('So what? What's it to me?'); '真人路演' -> the live roadshow (demo first; the 2-minute hourglass; every-desk rotation; one per desk to the stage); '互投' -> the vote ('would-most-want-to-see-real'); '遗珠' -> the overlooked (0-vote projects must get a highlight); '结课仪式' -> the closing ceremony (15-minute iron law); '十次课旅程' -> the ten-lesson journey (all lit); '首尾呼应' -> the bookend ('You're not watching the magic anymore — you're making it.'); '影像合规' -> recording rules (hands-only; guardian consent list); '家长观摩' -> the parent audience; '双硬闸' -> the two hard gates; '路演三规则' -> the three roadshow rules; '路演自检表' -> the roadshow self-check (8 items); '同桌双人上' -> the pair-up; 'demo 备份意识' -> demo-backup awareness; '杀青' -> 'That's a wrap!'; partner/TTT session appendix fully preserved. 'No gambling on Chinese rendering' rule naturally satisfied._

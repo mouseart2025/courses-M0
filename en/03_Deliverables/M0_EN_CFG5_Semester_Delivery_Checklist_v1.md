@@ -6,7 +6,7 @@ _Chaihuo Maker Academy · Smart Hardware Fundamentals (M0) ｜ 2026-08-26 ｜ So
 
 ---
 
-## 一、Session Deliverables at a Glance
+## 1. Session Deliverables at a Glance
 
 | Session | Lesson name (EN) | Teacher's Guide | Student Workbook | Slides | Must-do prep |
 | --- | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ _Chaihuo Maker Academy · Smart Hardware Fundamentals (M0) ｜ 2026-08-26 ｜ So
 
 ---
 
-## 二、Assets（`素材/`）
+## 2. Assets（`assets/`）
 
 | File | Used in |
 | --- | --- |
@@ -42,7 +42,7 @@ _Chaihuo Maker Academy · Smart Hardware Fundamentals (M0) ｜ 2026-08-26 ｜ So
 
 ---
 
-## 三、Course-wide Conventions (consistent across all ten sessions)
+## 3. Course-wide Conventions (consistent across all ten sessions)
 
 1. **Zero printing**: every prompt and phrase lives on the slides or in the Student Workbook — nothing to print;
 2. **No scheduled break**: no fixed rest time; students work at their own pace;
@@ -52,7 +52,7 @@ _Chaihuo Maker Academy · Smart Hardware Fundamentals (M0) ｜ 2026-08-26 ｜ So
 
 ---
 
-## 四、Not in This Package
+## 4. Not in This Package
 
 - **Prompt cards (28)**: retired as physical materials; their content now lives as on-screen phrases in each session;
 - **Slide plans (CN)**: production-side documents in `课程策划与规划/PPT策划/` — teachers don't need them; English slide plans ship in this package (`03_Deliverables/PPTPlans/`) as the blueprint for the EN decks;

@@ -546,4 +546,4 @@ Photograph the page and send it to the teaching group, or tuck it back in the co
 
 _Version: EN v1 ｜ 2026-08-25 ｜ Source: CN 讲师版 v2.4（2026-07-29） ｜ 依据设计版：B2 v1 / X2 v1 / X6 v1 / CFG-5 配置说明书 v1.0_
 
-_Localization notes: BMAD 品牌方法与五角色人名（John/Sally/Winston/Amelia/Quinn）保留原文；「防趋同」→ the sameness standard（教学成败线）；「救生句」→ the lifeline prompt；「状态圈」→ the state circles；P0/P1/P2 优先级、WORK/BREAK 界面显示沿用中文版已英文化的口径；一切屏幕显示内容沿用「不赌中文渲染」规则（天然满足）。信源修订说明（v2→v2.4）中的内容决策已全部吸收：零打印、静态对比页不演示翻车、P0/P1/P2 口径、V1 金句（10 年前 LED / 5 年前 WiFi / 今天五角色项目）。_
+_Localization notes: BMAD brand method and five persona names (John/Sally/Winston/Amelia/Quinn) kept in original; '防趋同' -> the sameness standard; '救生句' -> the lifeline prompt; '状态圈' -> the state circles. P0/P1/P2 priority and WORK/BREAK UI display use the Anglicized phrasing from CN version; all screen content follows the 'no gambling on Chinese rendering' rule (naturally satisfied). Source revision decisions (v2->v2.4) fully absorbed: zero printing, static comparison pages don't demo crashes, P0/P1/P2 framing, V1 quote (LED 10 years ago / WiFi 5 years ago / 5-persona project today)._

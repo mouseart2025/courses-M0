@@ -20,7 +20,7 @@ DECK_LABEL = "Run the First Lap"
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..",
                    "M0_EN_Deck_CFG-5_Lesson08_RunTheFirstLap_v1.pptx")
 
-COVER_ART = "/Users/leonfeng/Baiduyun/M0/M0-V2/素材/L8_封面插画_第一棒MVP.png"
+COVER_ART = "/Users/leonfeng/Baiduyun/M0/M0-V2/assets/L8_封面插画_第一棒MVP.png"
 BRANDY_KBD = ("/Users/leonfeng/Baiduyun/M0/M0-V2/旧版与中间件_归档/"
               "演示文稿_工程与截图/M0_演示文稿_CFG-5_第8课_跑通第一圈_v2/"
               "media/brandy_kbd.jpg")

@@ -55,7 +55,7 @@ Today's skills: **spot a problem** (10 ideas converge into 1, and you can say wh
 
 ---
 
-## 一、Before Class
+## 1. Before Class
 
 ### 1.1 One Week Before (do it once)
 
@@ -142,7 +142,7 @@ Budget note: everything you bring is one stationery run. Cheap.
 
 ---
 
-## 二、Session Map
+## 2. Session Map
 
 Sample timetable 14:00–17:00 — **shift the whole thing to your actual start time** (a morning class becomes 9:00–12:00; segment lengths don't change). **No scheduled break** — students use the restroom whenever they need, no reporting; device checks and sticky-note sorting happen quietly at the start of build time.
 
@@ -170,7 +170,7 @@ Sample timetable 14:00–17:00 — **shift the whole thing to your actual start 
 
 ---
 
-## 三、Segment-by-Segment Scripts
+## 3. Segment-by-Segment Scripts
 
 ### Segment 1 ｜ Finding a problem worth solving (14:00–14:51)
 
@@ -216,7 +216,7 @@ Sample timetable 14:00–17:00 — **shift the whole thing to your actual start 
 **Say this:** *"Watch me once. (project, fill the template) My annoyances: [your three real annoyances]. Send it to AI — (send) see, 10 ideas. (circle 2) Notice: what it gives you is candidates. Which one is buildable, who'd really use it — it doesn't know. You know. Your turn: fill your three annoyances into the phrase, send it — then copy your 3 favorite ideas back into your workbook."*
 
 **Watch for:**
-- **Red-line patrol** (the TA's main job): a student who sends the blank template without their own annoyances — send it back to be refilled: *"The blanks are for you to fill — AI doesn't know how old your sister is."*
+- **What to look for** (the TA's main job): a student who sends the blank template without their own annoyances — send it back to be refilled: *"The blanks are for you to fill — AI doesn't know how old your sister is."*
 - Everyone must get ≥10 ideas before this counts as done. Few ideas? Push: *"give me 5 weirder ones."*
 
 📌 **Output anchor:** the idea list stays in their own AI conversation; the 3 favorites are copied into the workbook.
@@ -400,7 +400,7 @@ Sample timetable 14:00–17:00 — **shift the whole thing to your actual start 
 
 ---
 
-## 四、Live Demo Backup Plan at a Glance
+## 4. Live Demo Backup Plan at a Glance
 
 | Demo | Used at | Rehearse | Backup asset | If it goes wrong live |
 | --- | --- | --- | --- | --- |
@@ -411,7 +411,7 @@ Sample timetable 14:00–17:00 — **shift the whole thing to your actual start 
 
 ---
 
-## 五、Pitfall Speed Sheet
+## 5. Pitfall Speed Sheet
 
 Remember the three moves first: **swap, cut to backup, ask AI.** Today's fourth: students' decisions — you ask, you never decide for them.
 
@@ -445,7 +445,7 @@ Remember the three moves first: **swap, cut to backup, ask AI.** Today's fourth:
 
 ---
 
-## 六、Prompt Phrase Library (instructor reference)
+## 6. Prompt Phrase Library (instructor reference)
 
 All seven phrase sets from today, full text — read before class, project when you need them. **These are not printed or handed out** — they're printed in the Student Workbook; project and read together when they debut, point students to the book when they forget. If the workbook wording differs slightly from here, either works; the meaning is the same.
 
@@ -484,7 +484,7 @@ All seven phrase sets from today, full text — read before class, project when 
 
 ---
 
-## 七、Localization Slots
+## 7. Localization Slots
 
 | Slot | Original | Swap in |
 | --- | --- | --- |
@@ -495,7 +495,7 @@ All seven phrase sets from today, full text — read before class, project when 
 
 ---
 
-## 八、Teacher Reflection Page (10 minutes after class — every line becomes the next version's saved pitfall)
+## 8. Teacher Reflection Page (10 minutes after class — every line becomes the next version's saved pitfall)
 
 1. Which segment went best? Which one do you most want a do-over on?
 2. Any 🗣️ line that felt stiff to say aloud — not like a human? Cross it out, write what you actually said.

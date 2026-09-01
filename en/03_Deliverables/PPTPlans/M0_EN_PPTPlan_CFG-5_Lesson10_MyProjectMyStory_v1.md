@@ -80,7 +80,7 @@ the README, the pitch, the roadshow — and ten lessons, all lit.
 
 **Instructor notes**: cover page only; students see it as they sit down. No script. When the session starts, go straight to slide 02 — the opener's 30-second recap is spoken, not projected. Right side: the roadshow cover illustration (the CN deck's IMG-01-01 — a little cardboard-box device on a spotlighted stage, applause stars and flags around it; Chaihuo black-line yellow-fill, same spec as Lessons 8/9 covers; reused only if it carries no Chinese glyphs, else redrawn wordless); yellow rule under the subtitle. Footer: `Chaihuo Maker Academy · M0 · My Project, My Story | 01 / 13`.
 
-**Assets**: cover illustration — reuse `素材/L10_封面插画_路演.png` if wordless, else redraw.
+**Assets**: cover illustration — reuse `assets/L10_封面插画_路演.png` if wordless, else redraw.
 
 ---
 
@@ -441,7 +441,7 @@ IN TEN LESSONS IS ___.
 
 | # | Asset | Origin | EN-deck action |
 | --- | --- | --- | --- |
-| 1 | Cover illustration — little cardboard-box device on a spotlighted stage, applause stars and flags (380×380 px, Chaihuo black-line yellow-fill) | CN deck IMG-01-01, delivered: `素材/L10_封面插画_路演.png` | Reuse only if wordless; else redraw wordless Chaihuo-style (same spec as L08/L09 covers) |
+| 1 | Cover illustration — little cardboard-box device on a spotlighted stage, applause stars and flags (380×380 px, Chaihuo black-line yellow-fill) | CN deck IMG-01-01, delivered: `assets/L10_封面插画_路演.png` | Reuse only if wordless; else redraw wordless Chaihuo-style (same spec as L08/L09 covers) |
 | 2 | Slide 06: four engineer's-checklist cards (2×2, yellow number dots) + two-group split bar | Text cards, drawn per plan | Draw fresh (plain text — no illustration, no platform screenshot) |
 | 3 | Slide 08: two account cards (cost / worth) | Text cards, drawn per plan | Draw fresh |
 | 4 | Slide 11: three roadshow rules (oversized type) + audience-job bar + red line + self-check block (two compact columns, light grey fill) | Text, drawn per plan | Draw fresh |
@@ -487,7 +487,7 @@ IN TEN LESSONS IS ___.
 
 | 版本 | 日期 | 说明 |
 | --- | --- | --- |
-| v1 | 2026-08-26 | 英文策划初版（13 页）：以 EN Teacher's Guide L10 v1（2026-08-25，基于中文讲师版 v3——三幕 70/57/53、去钟面时刻、去卡片化、零打印、删统一休息）为结构仲裁的品牌重制，中文策划 v2（12 页）仅作素材溯源与视觉骨架。**结构增量 1 处**：新增 slide 06「The Engineer's Checklist — Brandy Ran These Four」——v3 修订说明明文"PPT 12→13 页，新增页 6 专业工程师的 Demo 检查表（Brandy 亲测）"，中文策划无对应页，按结构仲裁法则以 EN 为唯一基准；页序从 6 起整体 +1（CN 06→EN 07 … CN 12→EN 13）。**裁决 1 处**：路演自检表（EN 6.7，8 项）并入 slide 11 路演常亮页底部两列小字区块——EN 零打印口径含 "roadshow self-check: projected"，但 v3 页数只允许 1 处新页（工程师检查表），故不新增页；策划中明文标注。红色 ×4 按 v2 口径映射：slide 04（fix-only）／slide 11（the hourglass exempts nobody）／slide 13（ceremony iron law + recording rules，两红同行）。句式 verbatim 锁定 EN 6.1–6.8（6.6 拆两页：三规则随 slide 11、投票随 slide 12；6.8 随 slide 13；顶回条"No praise. Only 'so what?' questions."随 slide 10）。双常亮页：slide 04（the sprint 45 分钟）＋slide 11（the roadshow 32 分钟，全课最少字页）。双硬闸（sprint stops at Act 1 end / ceremony begins 15 min before end）收讲师侧不上屏。素材复用 `素材/L10_封面插画_路演.png`（需无字校验）。 |
+| v1 | 2026-08-26 | 英文策划初版（13 页）：以 EN Teacher's Guide L10 v1（2026-08-25，基于中文讲师版 v3——三幕 70/57/53、去钟面时刻、去卡片化、零打印、删统一休息）为结构仲裁的品牌重制，中文策划 v2（12 页）仅作素材溯源与视觉骨架。**结构增量 1 处**：新增 slide 06「The Engineer's Checklist — Brandy Ran These Four」——v3 修订说明明文"PPT 12→13 页，新增页 6 专业工程师的 Demo 检查表（Brandy 亲测）"，中文策划无对应页，按结构仲裁法则以 EN 为唯一基准；页序从 6 起整体 +1（CN 06→EN 07 … CN 12→EN 13）。**裁决 1 处**：路演自检表（EN 6.7，8 项）并入 slide 11 路演常亮页底部两列小字区块——EN 零打印口径含 "roadshow self-check: projected"，但 v3 页数只允许 1 处新页（工程师检查表），故不新增页；策划中明文标注。红色 ×4 按 v2 口径映射：slide 04（fix-only）／slide 11（the hourglass exempts nobody）／slide 13（ceremony iron law + recording rules，两红同行）。句式 verbatim 锁定 EN 6.1–6.8（6.6 拆两页：三规则随 slide 11、投票随 slide 12；6.8 随 slide 13；顶回条"No praise. Only 'so what?' questions."随 slide 10）。双常亮页：slide 04（the sprint 45 分钟）＋slide 11（the roadshow 32 分钟，全课最少字页）。双硬闸（sprint stops at Act 1 end / ceremony begins 15 min before end）收讲师侧不上屏。素材复用 `assets/L10_封面插画_路演.png`（需无字校验）。 |
 
 ---
 

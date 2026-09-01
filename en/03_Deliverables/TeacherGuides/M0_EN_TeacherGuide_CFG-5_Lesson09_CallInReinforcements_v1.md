@@ -4,7 +4,7 @@ _Give Your MVP a New Power · The Marathon's Second Leg ｜ Chaihuo Maker Academ
 
 > **Source:** 中文版 v2（M0_教师课件_CFG-5_第9课_给作品请外援_v2.md，文件名即 v2；文末修订说明含 v2 滚动修订：三幕节奏、全套去钟面时刻、删统一休息、零打印、MVP 口径、评审人设递进、站会弹性化沿用第 8 课）
 > **Localized edition** — same blocks, same minutes, same teaching intent; classroom language rewritten for an English-speaking teacher to pick up and teach from.
-> **Localization notes:** ① 反馈页时长按总览表统一为 98/45/37（中文版反馈页遗留 v1 的 85/55/40，此处以总览表与分段流程为准，已在 Section 8 注明）；② 全课零打印——三看口径、全部句式、交接单、评审记录全部投屏，学员写进学员文档；③ 评审人设递进保留：第一棒挑剔用户 3 刺为主 → 本棒 Quinn 结实度 5 条逐条实测为主、挑剔用户降为 1 刺。
+> **Localization notes:** 1. Feedback page duration unified to 98/45/37 per overview table (CN version feedback page retained v1's 85/55/40, corrected here based on overview and segment flow, noted in Section 8); 2. Zero printing for whole class — the three checks phrasing, all prompt phrases, handoff sheet, review record are all projected, students write in workbooks; 3. Reviewer persona progression retained: Leg 1 Picky User was mainly 3 faults -> this Leg Quinn is mainly 5 sturdiness items actually tested, Picky User downgraded to 1 fault.
 
 ---
 
@@ -384,7 +384,7 @@ Prompts: 6.4 (Quinn's sturdiness checklist), 6.5 (the Picky User, one fault); Qu
 
 ---
 
-## Section 4 · The double-insurance matrix
+## Section 4 · The backup plan matrix
 
 | Block | Time short (compress) | Goes wrong live (substitute) | Can't happen at all (fallback) |
 | --- | --- | --- | --- |
