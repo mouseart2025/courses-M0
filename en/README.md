@@ -1,39 +1,41 @@
-# M0 · English Edition（英文版交付物）
+# M0 · English Edition
 
-_柴火创客学院 M0 · 零基础智能硬件入门 · 英文版 ｜ English edition of the M0 course deliverables ｜ 目标学员：以英语为母语的国际学员_
+_Chaihuo Maker Academy · M0 Smart Hardware Fundamentals · English edition of the M0 course deliverables — localized for native English-speaking learners and teachers._
 
-> **英文版不是翻译版，是本地化版本**。工作流与方法论见 `01_Workflow/`：保留中文版的教学意图、环节、时长与信源，按英语课堂惯例重写每一句课堂语言，使英语母语教师可以拿起文档直接照讲。
+> **Localized, not translated.** The English edition reworks the teaching intent, stages, timing, and source material of the Chinese edition into classroom language that follows English teaching conventions. A native English-speaking teacher can pick up these documents and teach from them directly. See the methodology in `01_Workflow/`.
 
 ---
 
-## 目录地图
+## Directory map
 
-| 目录 | 内容 | 状态 |
+| Path | Contents | Status |
 | --- | --- | --- |
-| `01_Workflow/` | **英文版课件工作流与方法论 v1**：本地化原则、英文教学法适配（Bloom 目标 / I-We-You Do / CFU / wait time）、课堂语言规范、文化本地化规则、五道质量关卡、生产流水线、命名规范、路线图 | ✅ |
-| `02_Glossary/` | **中英对照术语表 v1**：全部英文交付物的术语仲裁基准（含官方口径锚点 opc.chaihuo.org）；一至十四章覆盖 L0–L3 基础层 + 第 2–10 课逐课登记（第 4 课起严格先登记再使用） | ✅ |
-| `03_Deliverables/TeacherGuides/` | **英文讲师版 ×11（v1，全课铺开完成）**：Lesson 0《Before the First Light》+ Lesson 1《Sense and Respond》+ Lesson 2《Find a Problem Worth Solving》+ Lesson 3《Give Your Project a Screen》+ Lesson 4《Assemble Your Team》+ Lesson 5《Teach Your Hardware to See》+ Lesson 6《Move Your Project Home》+ Lesson 7《Brief Your Project》+ Lesson 8《Run the First Lap》+ Lesson 9《Call In Reinforcements》+ Lesson 10《My Project, My Story》 | ✅ |
-| `03_Deliverables/PPTPlans/` | **英文 PPT 策划 ×11（v1 each，P3 三批完成）**：Lesson 0《Before the First Light》(13 页) + Lesson 1《Sense and Respond》(28) + Lesson 2《Find a Problem Worth Solving》(22) + Lesson 3《Give Your Project a Screen》(19) + Lesson 4《Assemble Your Team》(20) + Lesson 5《Teach Your Hardware to See》(20) + Lesson 6《Move Your Project Home》(20) + Lesson 7《Brief Your Project》(19) + Lesson 8《Run the First Lap》(42，含 Brandy 附录) + Lesson 9《Call In Reinforcements》(20) + Lesson 10《My Project, My Story》(13) | ✅ |
-| `03_Deliverables/PPTX/` | **英文 PPTX 品牌重制（P3 后半程完成，×11 全绿）**：L0《BeforeFirstLight》13 页 + L1《SenseAndRespond》28 页 + L2《FindAProblemWorthSolving》22 页 + L3《GiveYourProjectAScreen》19 页 + L4《AssembleYourTeam》20 页 + L5《TeachYourHardwareToSee》20 页 + L6《MoveYourProjectHome》20 页 + L7《BriefYourProject》19 页 + L8《RunTheFirstLap》42 页（含 Brandy 附录 25 页）+ L9《CallInReinforcements》20 页 + L10《MyProjectMyStory》13 页，共 236 页（v1 each，双引擎校验全绿） | ✅ |
-| `03_Deliverables/StudentWorkbooks/` | **英文学员文档 ×10（v1 each，P4 完成）**：Lesson 1《Sense and Respond》+ Lesson 2《Find a Problem Worth Solving》+ Lesson 3《Give Your Project a Screen》+ Lesson 4《Assemble Your Team》+ Lesson 5《Teach Your Hardware to See》(v3 源，含 Codecraft 输出件加餐附录) + Lesson 6《Move Your Project Home》+ Lesson 7《Brief Your Project》+ Lesson 8《Run the First Lap》+ Lesson 9《Call In Reinforcements》+ Lesson 10《My Project, My Story》；结构镜像中文版学员文档（章节/填空锚点 1:1），全部 verbatim prompt 逐字照抄 EN 讲师版第六节；L0 先导课无学员文档 | ✅ |
-| `03_Deliverables/` | **英文学期交付清单** CFG-5 v1（Session 0–10 三件套索引 + 必备准备 + 全课约定） | ✅ |
+| `01_Workflow/` | **English courseware workflow & methodology v1** — localization principles, English pedagogy adaptation (Bloom's / I-We-You-Do / CFU / wait time), classroom-language standards, cultural-localization rules, five quality gates, production pipeline, naming conventions, roadmap | ✅ |
+| `02_Glossary/` | **Bilingual terminology glossary v1** — the arbitration baseline for all English deliverables (with the official anchor at opc.chaihuo.org); chapters 1–14 cover the L0–L3 foundation plus lessons 2–10, logged lesson by lesson (register-before-use enforced from Lesson 4) | ✅ |
+| `03_Deliverables/TeacherGuides/` | **English teacher guides ×11 (v1, all lessons shipped)** — Lesson 0 *Before the First Light* + Lesson 1 *Sense and Respond* + Lesson 2 *Find a Problem Worth Solving* + Lesson 3 *Give Your Project a Screen* + Lesson 4 *Assemble Your Team* + Lesson 5 *Teach Your Hardware to See* + Lesson 6 *Move Your Project Home* + Lesson 7 *Brief Your Project* + Lesson 8 *Run the First Lap* + Lesson 9 *Call In Reinforcements* + Lesson 10 *My Project, My Story* | ✅ |
+| `03_Deliverables/PPTPlans/` | **English PPT plans ×11 (v1 each)** — Lesson 0 (13 slides) + Lesson 1 (28) + Lesson 2 (22) + Lesson 3 (19) + Lesson 4 (20) + Lesson 5 (20) + Lesson 6 (20) + Lesson 7 (19) + Lesson 8 (42, incl. Brandy appendix) + Lesson 9 (20) + Lesson 10 (13) | ✅ |
+| `03_Deliverables/PPTX/` | **English brand-redesigned PPTX ×11 (v1 each, all green)** — L0 (13) + L1 (28) + L2 (22) + L3 (19) + L4 (20) + L5 (20) + L6 (20) + L7 (19) + L8 (42, incl. 25-page Brandy appendix) + L9 (20) + L10 (13); 236 slides total, dual-engine verified | ✅ |
+| `03_Deliverables/StudentWorkbooks/` | **English student workbooks ×10 (v1 each)** — Lessons 1–10; structure mirrors the Chinese workbooks 1:1 (sections / fill-in anchors); all verbatim prompts copied from the EN teacher guides' Section 6; Lesson 0 has no workbook | ✅ |
+| `03_Deliverables/` | **English semester delivery checklist** CFG-5 v1 — Session 0–10 three-file index + prep requirements + course-wide conventions | ✅ |
 
-## 与中文版的关系
+## Relationship to the Chinese edition
 
-- **目录独立**：中文版在 `交付物/`，英文版在 `en/`，互不覆盖、互不混放；
-- **信源单向**：英文版以中文版讲师版（已定版）为信源做本地化；英文版文档头标注 `Source: CN vX` 追溯；
-- **版本解耦**：英文版独立版本号（从 v1 起）；
-- **同步纪律**：中文版口径更新 → 英文版受影响段落标注 `[Sync: CN vX → EN]` 待同步。
+- **Separate directories**: the Chinese edition lives in `交付物/`; the English edition lives in `en/`. They never overwrite or mix;
+- **One-way source**: the English edition is localized from the finalized Chinese teacher guides; each English document header records `Source: CN vX` for traceability;
+- **Independent versioning**: the English edition has its own version numbers (starting from v1);
+- **Sync discipline**: when the Chinese edition's wording changes, the affected English passages are tagged `[Sync: CN vX → EN]` pending sync.
 
-## 当前状态（2026-08-26）
+## Current status (snapshot 2026-08-26)
 
-- P0 方法论 + 术语表完成；P1 第 0 课英文讲师版 + 英文学期清单完成（工作流示范批次）；P2 第 1–3 课英文讲师版完成；P2+ 全课铺开完成（第 4–10 课，v1 each，2026-08-25）。
-- **P3 英文 PPT 策划完成——×11（Lesson 0–10，v1 each，2026-08-26 三批滚动完成，共 236 页）**：P3a 首批 L00–L03（13 / 28 / 22 / 19 页）✅ ／ P3b 第二批 L04–L06（20 / 20 / 20 页）✅ ／ P3c 第三批 L07–L10（19 / 42 / 20 / 13 页，L08 含 Brandy 附录 25 页）✅。
-- 结构仲裁法贯穿三批：英文策划以 EN 讲师版为结构仲裁（不拷贝中文策划），中文策划仅作素材溯源与视觉骨架——L09 按 EN 零打印口径新增评审记录投屏页（19→20 页）、L10 按 EN 讲师版（基于中文讲师版 v3）新增工程师检查表页（12→13 页）。
-- 术语表同步登记至第十四章（第 6–10 课逐课先登记再使用，含课名、铁律、句式、金句的锁定译名）。
-- **P3 后半程 · 英文 PPTX 品牌重制完成（2026-08-26）**：L0–L10 全 11 课 PPTX 全部交付（v1 each，共 236 页），位于 `03_Deliverables/PPTX/`。构建管线：`PPTX/_build/` 下 builder_lib.py（柴火品牌原语库）+ 单课构建脚本（build_L00.py–build_L10.py）+ 双引擎校验（verify_deck 文本级：CJK 扫描/页码对齐/红填充计数 D84144/画布越界；verify_layout 几何级：Pillow+Arial 度量逐框估算换行行数 vs 文本框高），全部「deck PASS + 0 布局警告」。上屏零中文/全角/emoji（"不赌中文渲染"——正则扫描 `[\u4e00-\u9fff\u3000-\u303f\uff00-\uffef]`），①/②/③/⭐/✅/⚠️/全角 `｜` 一律替换为黄块/ASCII（`｜` → `|`）；红纪律逐课 ≤4 处（slide 数 × 5% 红填充预算）；讲师侧信息（铁律/巡场节奏/三铁闸/降级预案/时间弹性带）只进 speaker notes 不上屏。
-- **P4 英文学员文档完成（2026-08-26）**：第 1–10 课学员文档全部交付（v1 each，共 10 份），位于 `03_Deliverables/StudentWorkbooks/`。派生纪律：中文版学员文档为结构信源（章节、填空锚点、"写在这里"槽位 1:1 镜像；L5 用 v3 源——含第九节 Codecraft 输出件加餐附录，其余 v2）；EN 讲师版第六节为 verbatim prompt 唯一仲裁源（五轮接力句式、发布检查、README/pitch 模板、投资人陪练、硬件 Prompt 模板等全部逐字照抄）；中文 wiki 链接剔除、英文 wiki 与 GitHub 链接保留；第二人称 + 短句文体。L0 先导课无学员文档。
-- 后续：**P5 母语审校抽审 + 试讲回填**。详见方法论第十章路线图。
-- 状态同步：`03_Deliverables/M0_EN_CFG5_Semester_Delivery_Checklist_v1.md` 速查表已同步 Session 0–10 全部讲师版 v1 + 英文 PPT 策划 v1 + PPTX v1（Slides 列）✅ + 学员文档 v1（Student Workbook 列，L1–L10）✅。
+- **P0** methodology + glossary complete; **P1** Lesson 0 English teacher guide + English semester checklist complete (workflow demo batch); **P2** Lessons 1–3 English teacher guides complete; **P2+** full rollout complete (Lessons 4–10, v1 each, 2026-08-25).
+- **P3 English PPT plans complete** — ×11 (Lessons 0–10, v1 each, 236 slides total, delivered in three rolling batches on 2026-08-26): P3a L00–L03 (13 / 28 / 22 / 19) ✅ ／ P3b L04–L06 (20 / 20 / 20) ✅ ／ P3c L07–L10 (19 / 42 / 20 / 13, L08 incl. 25-page Brandy appendix) ✅.
+- Structural arbitration applied across all three batches: the EN plans take the EN teacher guides as their structural authority (they do not copy the Chinese plans); the Chinese plans are used only for source material and as a visual skeleton — L09 gained a review-record projection page per the EN zero-print convention (19→20 slides), and L10 added an engineer's checklist page per the EN teacher guide (based on CN guide v3) (12→13 slides).
+- Glossary synced through Chapter 14 (Lessons 6–10, register-before-use per lesson, including locked translations for lesson titles, iron rules, sentence patterns, and key quotes).
+- **P3 second half · English PPTX brand redesign complete (2026-08-26)**: all 11 decks delivered (v1 each, 236 slides) in `03_Deliverables/PPTX/`. Build pipeline: `PPTX/_build/` — `builder_lib.py` (Chaihuo brand primitive library) + per-lesson build scripts (`build_L00.py`–`build_L10.py`) + dual-engine verification (`verify_deck` text-level: CJK scan / page alignment / red-fill count D84144 / canvas overflow; `verify_layout` geometry-level: Pillow + Arial measurement estimating wrapped line count vs. text-box height), all decks PASS with 0 layout warnings. Zero Chinese / full-width characters / emoji on screen (regex scan `[\u4e00-\u9fff\u3000-\u303f\uff00-\uffef]`); ①/②/③/⭐/✅/⚠️/full-width `｜` all replaced with yellow blocks or ASCII (`｜` → `|`); red-discipline ≤4 per lesson (5% red-fill budget per slide count); teacher-side information (iron rules / patrol pacing / three gates / fallback plans / time elasticity band) lives only in speaker notes, never on screen.
+- **P4 English student workbooks complete (2026-08-26)**: Lessons 1–10 delivered (v1 each, 10 documents) in `03_Deliverables/StudentWorkbooks/`. Derivation discipline: the Chinese workbooks are the structural source (sections, fill-in anchors, "write here" slots mirrored 1:1; L5 uses the v3 source — incl. the Section 9 Codecraft-output bonus appendix; the rest use v2); the EN teacher guides' Section 6 is the single arbitration source for verbatim prompts (five-round relay sentence patterns, release checklist, README/pitch templates, investor sparring, hardware prompt templates — all copied verbatim); Chinese wiki links removed, English wiki and GitHub links kept; second-person + short-sentence style. Lesson 0 has no workbook.
+- **Next: P5 native-speaker review sampling + pilot feedback** — see the Chapter 10 roadmap in the methodology.
+- Status sync: `03_Deliverables/M0_EN_CFG5_Semester_Delivery_Checklist_v1.md` quick-reference updated for Sessions 0–10 — all teacher guides v1 + PPT plans v1 + PPTX v1 (Slides column) ✅ + student workbooks v1 (Student Workbook column, L1–L10) ✅.
 
-_英文版根 README ｜ 维护：随英文版交付物更新_
+---
+
+_English edition root README ｜ maintained as the English deliverables are updated. Part of the M0 open course, released under CC BY 4.0 — see `LICENSE.md` / `LICENSE-README.md` at the repository root._
