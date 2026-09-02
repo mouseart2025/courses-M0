@@ -29,11 +29,26 @@ README.md              Chinese version
 README_EN.md           This file (English)
 ```
 
+## English edition contents
+
+Everything under `en/` is a **localized** (not translated) edition — a native English-speaking teacher can pick it up and teach from it directly.
+
+| Item | Link | Status |
+| --- | --- | --- |
+| English-edition overview | [en/README.md](./en/README.md) | ✅ |
+| Workflow & methodology — localization principles, pedagogy adaptation, quality gates, production pipeline | [en/01_Workflow/M0_EN_English_Courseware_Workflow_Methodology_v1.md](./en/01_Workflow/M0_EN_English_Courseware_Workflow_Methodology_v1.md) | ✅ v1 |
+| Bilingual terminology glossary (CN–EN arbitration baseline) | [en/02_Glossary/M0_EN_Glossary_CN_EN_v1.md](./en/02_Glossary/M0_EN_Glossary_CN_EN_v1.md) | ✅ v1 |
+| Semester delivery checklist (Sessions 0–10) | [en/03_Deliverables/M0_EN_CFG5_Semester_Delivery_Checklist_v1.md](./en/03_Deliverables/M0_EN_CFG5_Semester_Delivery_Checklist_v1.md) | ✅ v1 |
+| Teacher guides (Lessons 0–10) | [en/03_Deliverables/TeacherGuides/](./en/03_Deliverables/TeacherGuides/) | ✅ ×11 |
+| Student workbooks (Lessons 1–10) | [en/03_Deliverables/StudentWorkbooks/](./en/03_Deliverables/StudentWorkbooks/) | ✅ ×10 |
+| PPT plans (Lessons 0–10) | [en/03_Deliverables/PPTPlans/](./en/03_Deliverables/PPTPlans/) | ✅ ×11 |
+| Brand-redesigned PPTX decks (Lessons 0–10) | [en/03_Deliverables/PPTX/](./en/03_Deliverables/PPTX/) | ✅ ×11 |
+
 ## Quick start (for teachers)
 
-1. Read `en/03_Deliverables/M0_EN_CFG5_Semester_Delivery_Checklist_v1.md` to see which three files each session needs;
-2. Read the workflow & localization methodology in `en/01_Workflow/` — the English edition is **localized, not translated**, so a native-speaking teacher can pick it up and teach directly;
-3. The English edition covers all 11 sessions (Lesson 0–10): Teacher Guides, Student Workbooks, PPT Plans and brand-redesigned PPTX decks.
+1. Read the [semester delivery checklist](./en/03_Deliverables/M0_EN_CFG5_Semester_Delivery_Checklist_v1.md) to see which three files each session needs;
+2. Read the [workflow & localization methodology](./en/01_Workflow/M0_EN_English_Courseware_Workflow_Methodology_v1.md) — the English edition is **localized, not translated**, so a native-speaking teacher can pick it up and teach directly;
+3. The English edition covers all 11 sessions (Lesson 0–10): Teacher Guides, Student Workbooks, PPT Plans and brand-redesigned PPTX decks — browse them under [en/03_Deliverables/](./en/03_Deliverables/).
 
 ## Remix it — this is an open course
 
