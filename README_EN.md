@@ -1,6 +1,6 @@
 # courses-M0 · M0 Smart Hardware Fundamentals
 
-_Chaihuo Maker Academy ｜ Build with AI ｜ License: CC BY 4.0_
+_Chaihuo Maker Academy ｜ Build with AI ｜ [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)_
 
 > **[Chinese Version / 中文版](./README.md)**
 
@@ -45,6 +45,8 @@ Everything under `en/` is a **localized** (not translated) edition — a native 
 | Brand-redesigned PPTX decks (Lessons 0–10) | [en/03_Deliverables/PPTX/](./en/03_Deliverables/PPTX/) | ✅ ×11 |
 
 ## Quick start (for teachers)
+
+> **Start here — the course's usage guide**: [交付物使用指南（给老师与 AI）](./交付物/交付物使用指南_给老师与AI_v1.md) (Chinese) explains how to use and remix the deliverables, and how to hand them to AI. English-speaking teachers: use the localized edition under [`en/`](./en/README.md) and the [localization methodology](./en/01_Workflow/M0_EN_English_Courseware_Workflow_Methodology_v1.md) linked below.
 
 1. Read the [semester delivery checklist](./en/03_Deliverables/M0_EN_CFG5_Semester_Delivery_Checklist_v1.md) to see which three files each session needs;
 2. Read the [workflow & localization methodology](./en/01_Workflow/M0_EN_English_Courseware_Workflow_Methodology_v1.md) — the English edition is **localized, not translated**, so a native-speaking teacher can pick it up and teach directly;
