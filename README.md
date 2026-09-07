@@ -17,6 +17,12 @@ _柴火创客学院 Chaihuo Maker Academy ｜ 用 AI 造物 · Build with AI ｜
 
 课程详细介绍见官网：[opc.chaihuo.org/courses/m0](https://opc.chaihuo.org/courses/m0)
 
+## 在线文档
+
+课程交付物的在线文档链接列表（飞书知识库，浏览器可直接打开）：[M0 课程交付物在线文档链接列表](https://seeedstudio.feishu.cn/wiki/X7mRw54LAiIidXkJQvKcOiKpnxh)
+
+> 该文档托管于飞书知识库，部分内容可能需要登录飞书查看；如遇权限提示，可在仓库 Issue 中提出或联系柴火创客学院。
+
 ## 快速开始（给老师与 AI）
 
 > **第一步，先读这一份**：[交付物使用指南（给老师与 AI）](./交付物/交付物使用指南_给老师与AI_v1.md) —— 它告诉你这套交付物怎么用、怎么"魔改"，也教你的 AI 按这套方法论帮你改造课程。

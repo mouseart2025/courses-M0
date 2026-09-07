@@ -17,6 +17,12 @@ _Chaihuo Maker Academy ｜ Build with AI ｜ [![License: CC BY 4.0](https://img.
 
 Official course page: [opc.chaihuo.org/courses/m0](https://opc.chaihuo.org/courses/m0)
 
+## Online documents
+
+[M0 Course Deliverables — Online Document Links](https://seeedstudio.feishu.cn/wiki/X7mRw54LAiIidXkJQvKcOiKpnxh) (Feishu wiki, opens directly in your browser)
+
+> Hosted on the Feishu knowledge base; some content may require a Feishu login to view. If you hit a permission wall, open an Issue or contact Chaihuo Maker Academy.
+
 ## Directory
 
 ```
