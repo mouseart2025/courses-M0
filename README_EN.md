@@ -27,6 +27,7 @@ Official course page: [opc.chaihuo.org/courses/m0](https://opc.chaihuo.org/cours
 
 ```
 交付物/                Chinese edition (Teacher Guides / Student Workbooks / Slides / Checklist)
+AI改课流程/            AI course-rework guide + course-design & style Skills (Chinese; rework an entire course from your requirements)
 en/                    English edition (Teacher Guides / Student Workbooks / Slides / Workflow / Glossary)
 素材/                  Shared assets (cover art, board photos, case photos)
 LICENSE.md             CC BY 4.0 (official legal code)
