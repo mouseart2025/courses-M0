@@ -46,7 +46,7 @@ If the answer is yes, the localization succeeded. Any sentence that requires "un
 ### 2.2 Official wording sources (the glossary must align with these)
 
 1. **Chaihuo Maker Academy's official English site** `opc.chaihuo.org` (English names of the course system, module descriptions)
-2. **Course introduction v8** (`需求/柴火创客学院M0 · 零基础智能硬件入门 · 课程介绍.md`) — the latest Chinese wording baseline
+2. **Course introduction v8** (`需求/柴火创客学园M0 · 零基础智能硬件入门 · 课程介绍.md`) — the latest Chinese wording baseline
 3. **Chinese teacher guides / block cards** (the source; input to this workflow)
 4. **Global community upgrade plan** (`需求/全球社区升级方案｜内部复盘与建议.md`) — the partner-context wording baseline
 

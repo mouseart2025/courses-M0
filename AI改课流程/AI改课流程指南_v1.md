@@ -1,6 +1,6 @@
 # 用 AI 改课・完整流程指南
 
-*给老师，也给 AI ｜ 柴火创客学院・M0 零基础智能硬件入门（courses-M0 仓库） ｜ v1・2026-09-08*
+*给老师，也给 AI ｜ 柴火创客学园・M0 零基础智能硬件入门（courses-M0 仓库） ｜ v1・2026-09-08*
 
 > **一句话**
 >
@@ -576,4 +576,4 @@ courses-M0 是 "**积木式三层架构**"（详见《课程设计 Skill》）�
 
 ***
 
-*柴火创客学院 M0 ｜ 用 AI 改课・完整流程指南 v1 ｜ 2026-09-08 ｜ 公开仓库：*[github.com/mouseart2025/courses-M0](https://github.com/mouseart2025/courses-M0)
+*柴火创客学园 M0 ｜ 用 AI 改课・完整流程指南 v1 ｜ 2026-09-08 ｜ 公开仓库：*[github.com/mouseart2025/courses-M0](https://github.com/mouseart2025/courses-M0)

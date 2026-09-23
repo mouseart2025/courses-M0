@@ -1,6 +1,6 @@
 # courses-M0 · M0 零基础智能硬件入门
 
-_柴火创客学院 Chaihuo Maker Academy ｜ 用 AI 造物 · Build with AI ｜ [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)_
+_柴火创客学园 Chaihuo Maker Academy ｜ 用 AI 造物 · Build with AI ｜ [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)_
 
 [**English Version**](./README_EN.md)
 
@@ -21,7 +21,7 @@ _柴火创客学院 Chaihuo Maker Academy ｜ 用 AI 造物 · Build with AI ｜
 
 课程交付物的在线文档链接列表（飞书知识库，浏览器可直接打开）：[M0 课程交付物在线文档链接列表](https://seeedstudio.feishu.cn/wiki/X7mRw54LAiIidXkJQvKcOiKpnxh)
 
-> 该文档托管于飞书知识库，部分内容可能需要登录飞书查看；如遇权限提示，可在仓库 Issue 中提出或联系柴火创客学院。
+> 该文档托管于飞书知识库，部分内容可能需要登录飞书查看；如遇权限提示，可在仓库 Issue 中提出或联系柴火创客学园。
 
 ## 快速开始（给老师与 AI）
 
@@ -59,4 +59,4 @@ README_EN.md          English version
 ## 反馈与贡献
 
 - 问题与改进建议：请在 **Issue** 中提出，或直接提交 **Pull Request**；
-- 想深度合作（认证 4S 基地 / 先锋官、硬件与平台支持、讲师认证）：请联系柴火创客学院。
+- 想深度合作（认证 4S 基地 / 先锋官、硬件与平台支持、讲师认证）：请联系柴火创客学园。

@@ -101,7 +101,7 @@ _版本：v1 ｜ 2026-08-25 ｜ 用途：英文版所有交付物的术语唯一
 | 中文 | 英文（锁定） | 备注 |
 | --- | --- | --- |
 | 柴火创客空间 | **Chaihuo Makerspace**（China's first makerspace, founded 2011, supported by Seeed Studio） | 首次出现附一句背景 |
-| 柴火创客学院 | **Chaihuo Maker Academy** | `[官方]` |
+| 柴火创客学园 | **Chaihuo Maker Academy** | `[官方]` |
 | Seeed Studio（矽递） | **Seeed Studio** | 专名保留 |
 | Brandy（李世雯） | **Brandy Li**（Seeed application engineer） | 案例人物，口播用 "Brandy" |
 | 冯磊（课程作者） | **Feng Lei, course author** | 背景页 |
